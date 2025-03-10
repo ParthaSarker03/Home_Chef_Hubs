@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Chef Dashboard";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Welcome, Chef</h2>
+    <p class="text-center">Manage your products and orders from here.</p>
+
+    <div class="row justify-content-center mt-4">
+        <div class="col-md-4 text-center">
+            <a asp-action="AddProduct" class="btn btn-success btn-lg">Add Product</a>
+        </div>
+        <div class="col-md-4 text-center">
+            <a asp-action="ViewProducts" class="btn btn-primary btn-lg">View Products</a>
+        </div>
+        <div class="col-md-4 text-center">
+            <a asp-action="Logout" class="btn btn-danger btn-lg">Logout</a>
+        </div>
+    </div>
+</div>
+
