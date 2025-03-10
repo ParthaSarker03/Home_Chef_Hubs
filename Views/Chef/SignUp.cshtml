@@ -1,0 +1,113 @@
+﻿@model FoodDeliveryApp.Models.Chef
+@{
+    ViewData["Title"] = "Chef Sign Up";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/styles_chef.css">
+    <style>
+        .container {
+            display: flex;
+            height: 100vh;
+        }
+
+        .left-panel {
+            background: url('/img/1.jpg') center/cover no-repeat;
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            position: relative;
+        }
+
+        .overlay {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 40px;
+            border-radius: 10px;
+        }
+
+        .right-panel {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 50px;
+        }
+
+        .form-box {
+            width: 100%;
+            max-width: 400px;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Left Panel with Branding -->
+        <div class="left-panel d-none d-md-flex">
+            <div class="overlay">
+                <h1 class="logo">Home Chef Hub</h1>
+                <p>Join our community of talented chefs!</p>
+            </div>
+        </div>
+
+        <!-- Right Panel with Form -->
+        <div class="right-panel">
+            <div class="form-box">
+                <h2 class="text-center">REGISTER</h2>
+                <p class="text-center text-muted">CHEF..! IT'S YOUR PLACE</p>
+
+                @if (ViewBag.ErrorMessage != null)
+                {
+                    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+                }
+
+                <form asp-action="SignUp" method="post">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <input asp-for="Name" class="form-control" placeholder="Name" required />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <input asp-for="Email" type="email" class="form-control" placeholder="Email Address" required />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <input asp-for="Phone" class="form-control" placeholder="Phone Number" required />
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <input asp-for="NID" class="form-control" placeholder="NID Number" required />
+                        <span asp-validation-for="NID" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <input asp-for="Password" type="password" class="form-control" placeholder="Password" required />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100">CREATE ACCOUNT</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <partial name="_ValidationScriptsPartial" />
+</body>
+</html>
