@@ -1,0 +1,68 @@
+﻿@model FoodDeliveryApp.Models.Chef
+
+@{
+    ViewData["Title"] = "Chef Login";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chef Login</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/styles_login_chef.css">
+</head>
+<body class="bg-light">
+    <div class="container vh-100 d-flex justify-content-center align-items-center">
+        <div class="row shadow-lg rounded-3 overflow-hidden" style="max-width: 900px; width: 100%;">
+            <!-- Left Panel with Branding -->
+            <div class="col-md-6 d-flex align-items-center bg-primary text-white p-4">
+                <div class="text-center w-100">
+                    <h2 class="fw-bold">Welcome to Home Chef Hub</h2>
+                    <p>Cook with passion, login to your account!</p>
+                </div>
+            </div>
+
+            <!-- Right Panel with Login Form -->
+            <div class="col-md-6 bg-white p-5">
+                <h2 class="text-center fw-bold">LOGIN</h2>
+                <p class="text-center text-muted">Welcome back! Enter your credentials.</p>
+
+                @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+                {
+                    <div class="alert alert-danger text-center">@ViewBag.ErrorMessage</div>
+                }
+
+                <form asp-action="Login" method="post">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email Address</label>
+                        <input type="email" name="email" class="form-control" placeholder="Enter your email" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" name="password" class="form-control" placeholder="Enter your password" required />
+                    </div>
+
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary">LOGIN</button>
+                    </div>
+
+                    <p class="text-center mt-3">
+                        New here?
+                        <a href="@Url.Action("SignUp", "Chef")" class="text-primary fw-bold">Create an account</a>
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS (Optional) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
