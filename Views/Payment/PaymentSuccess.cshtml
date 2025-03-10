@@ -1,0 +1,28 @@
+﻿@model FoodDeliveryApp.ViewModels.PaymentViewModel
+@{
+    Layout = "~/Views/Shared/_CustomerLayout.cshtml";
+    ViewData["Title"] = "Payment Success";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header bg-success text-white">
+            <h2 class="mb-0">Payment Successful</h2>
+            <small class="text-muted">Your payment has been processed successfully.</small>
+        </div>
+        <div class="card-body">
+            <h4>Order Summary</h4>
+            <ul class="list-group mb-3">
+                <li class="list-group-item"><strong>Order ID:</strong> @Model.OrderId</li>
+                <li class="list-group-item"><strong>Customer Name:</strong> @Model.CustomerName</li>
+                <li class="list-group-item"><strong>Phone Number:</strong> @Model.PhoneNumber</li>
+                <li class="list-group-item"><strong>Address:</strong> @Model.Address</li>
+                <li class="list-group-item"><strong>Payment Method:</strong> @Model.Method</li>
+                <li class="list-group-item"><strong>Total Quantity:</strong> @Model.TotalQuantity</li>
+                <li class="list-group-item"><strong>Total Price:</strong> @Model.TotalPrice.ToString("C")</li>
+                <li class="list-group-item"><strong>Payment Date:</strong> @Model.PaymentDateTime.ToString("g")</li>
+            </ul>
+            <a href="@Url.Action("MyOrders", "Customer")" class="btn btn-primary">Back to My Orders</a>
+        </div>
+    </div>
+</div>

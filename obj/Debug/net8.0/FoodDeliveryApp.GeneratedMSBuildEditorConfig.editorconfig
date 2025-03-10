@@ -17,33 +17,105 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FoodDeliveryApp
 build_property.RootNamespace = FoodDeliveryApp
-build_property.ProjectDir = F:\SD_ISD_Project\Home_Chef_Hubs\
+build_property.ProjectDir = G:\SDISD\Home_Chef_Hubs\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\SD_ISD_Project\Home_Chef_Hubs
+build_property.MSBuildProjectDirectory = G:\SDISD\Home_Chef_Hubs
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[F:/SD_ISD_Project/Home_Chef_Hubs/Views/CustomerAccount/Login.cshtml]
+[G:/SDISD/Home_Chef_Hubs/Views/AdminAccount/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/AdminAccount/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BY2NvdW50XFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Admin/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Admin/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Admin/PaymentInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGF5bWVudEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Admin/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Chef/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Chef/ChefIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxDaGVmSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Chef/ViewProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxWaWV3UHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/CustomerAccount/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJBY2NvdW50XExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SD_ISD_Project/Home_Chef_Hubs/Views/CustomerAccount/Register.cshtml]
+[G:/SDISD/Home_Chef_Hubs/Views/CustomerAccount/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJBY2NvdW50XFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SD_ISD_Project/Home_Chef_Hubs/Views/Customer/MyOrders.cshtml]
+[G:/SDISD/Home_Chef_Hubs/Views/Customer/MyOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTXlPcmRlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SD_ISD_Project/Home_Chef_Hubs/Views/Customer/PlaceOrder.cshtml]
+[G:/SDISD/Home_Chef_Hubs/Views/Customer/PlaceOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUGxhY2VPcmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SD_ISD_Project/Home_Chef_Hubs/Views/Home/Menu.cshtml]
+[G:/SDISD/Home_Chef_Hubs/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Home/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Payment/PaymentSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxQYXltZW50U3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Shared/_CustomerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21lckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/SDISD/Home_Chef_Hubs/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rlf79yp3zm

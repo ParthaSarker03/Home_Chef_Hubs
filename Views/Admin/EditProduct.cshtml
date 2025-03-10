@@ -1,0 +1,63 @@
+﻿@model FoodDeliveryApp.ViewModels.EditProductViewModel
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Edit Product";
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h5>Edit Product</h5>
+        </div>
+        <div class="card-body">
+            <form asp-action="EditProduct" method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="ItemId" />
+
+                <div class="form-group">
+                    <label>Item Name</label>
+                    <input asp-for="ItemName" class="form-control" required />
+                </div>
+
+                <div class="form-group">
+                    <label>Description</label>
+                    <textarea asp-for="Description" class="form-control" required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label>Price</label>
+                    <input asp-for="Price" type="number" class="form-control" step="0.01" required />
+                </div>
+
+                <div class="form-group">
+                    <label>Availability</label>
+                    <select asp-for="IsAvailable" class="form-control">
+                        <option value="true">Available</option>
+                        <option value="false">Unavailable</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Current Image</label>
+                    <br />
+                    @if (!string.IsNullOrEmpty(Model.ImagePath))
+                    {
+                        <img src="@Model.ImagePath" alt="Product Image" width="100" height="100" class="img-thumbnail" />
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </div>
+
+                <div class="form-group">
+                    <label>Upload New Image</label>
+                    <input type="file" asp-for="ImageFile" class="form-control" />
+                </div>
+
+                <button type="submit" class="btn btn-success mt-3">Save Changes</button>
+                <a asp-action="Products" class="btn btn-secondary mt-3">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>
