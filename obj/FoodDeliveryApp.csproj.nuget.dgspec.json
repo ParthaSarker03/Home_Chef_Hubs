@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp.csproj": {}
+    "F:\\SD_ISD_Project\\Home_Chef_Hubs\\FoodDeliveryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp.csproj": {
+    "F:\\SD_ISD_Project\\Home_Chef_Hubs\\FoodDeliveryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp.csproj",
+        "projectUniqueName": "F:\\SD_ISD_Project\\Home_Chef_Hubs\\FoodDeliveryApp.csproj",
         "projectName": "FoodDeliveryApp",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\obj\\",
+        "projectPath": "F:\\SD_ISD_Project\\Home_Chef_Hubs\\FoodDeliveryApp.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "F:\\SD_ISD_Project\\Home_Chef_Hubs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
