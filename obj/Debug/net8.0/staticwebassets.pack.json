@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodDeliveryApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FoodDeliveryApp.rcszi7c82y.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\images\\07ff54af-f3c9-4d60-8f58-1cb81965b9fa_Puja6.jpg",
+      "PackagePath": "staticwebassets\\images\\07ff54af-f3c9-4d60-8f58-1cb81965b9fa_Puja6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\images\\266a4e4a-d437-4bc7-8029-dd7b27dcecf7_Puja11.jpg",
+      "PackagePath": "staticwebassets\\images\\266a4e4a-d437-4bc7-8029-dd7b27dcecf7_Puja11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\images\\41cd363a-3ab1-4577-9c65-c6099c7bdd1c_Puja1.jpg",
+      "PackagePath": "staticwebassets\\images\\41cd363a-3ab1-4577-9c65-c6099c7bdd1c_Puja1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\images\\74d6e650-e934-4c3e-a76a-b5f456043dce_privacy.png",
+      "PackagePath": "staticwebassets\\images\\74d6e650-e934-4c3e-a76a-b5f456043dce_privacy.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\images\\a08ffa19-bdb9-427a-acb2-e9be5c8d4782_Puja7.jpg",
+      "PackagePath": "staticwebassets\\images\\a08ffa19-bdb9-427a-acb2-e9be5c8d4782_Puja7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\images\\a31d242e-307e-4dcf-b3f2-f22cef24e176_Puja2.jpg",
+      "PackagePath": "staticwebassets\\images\\a31d242e-307e-4dcf-b3f2-f22cef24e176_Puja2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\images\\b6c4bec2-a421-43da-aad4-46821d2bb527_food-background.jpg.png",
+      "PackagePath": "staticwebassets\\images\\b6c4bec2-a421-43da-aad4-46821d2bb527_food-background.jpg.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\images\\f009f89d-4483-4c14-92a7-1413fef3300c_Puja4.jpg",
+      "PackagePath": "staticwebassets\\images\\f009f89d-4483-4c14-92a7-1413fef3300c_Puja4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\abc.jpg",
+      "PackagePath": "staticwebassets\\img\\abc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\bcd.png",
+      "PackagePath": "staticwebassets\\img\\bcd.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\food-background.png",
+      "PackagePath": "staticwebassets\\img\\food-background.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\food-background1.png",
+      "PackagePath": "staticwebassets\\img\\food-background1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\food-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\food-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\food3.jpg",
+      "PackagePath": "staticwebassets\\img\\food3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\hero.png",
+      "PackagePath": "staticwebassets\\img\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\privacy.png",
+      "PackagePath": "staticwebassets\\img\\privacy.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\img\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\SDAndISD3.2\\SDANDISDProject\\FoodDeliveryApp\\FoodDeliveryApp\\FoodDeliveryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodDeliveryApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodDeliveryApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FoodDeliveryApp.props",
+      "PackagePath": "build\\FoodDeliveryApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodDeliveryApp.props",
+      "PackagePath": "buildMultiTargeting\\FoodDeliveryApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FoodDeliveryApp.props",
+      "PackagePath": "buildTransitive\\FoodDeliveryApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

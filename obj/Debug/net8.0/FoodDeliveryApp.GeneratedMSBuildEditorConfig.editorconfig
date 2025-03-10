@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FoodDeliveryApp
+build_property.RootNamespace = FoodDeliveryApp
+build_property.ProjectDir = C:\Users\ASUS\Desktop\SDAndISD3.2\SDANDISDProject\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\Desktop\SDAndISD3.2\SDANDISDProject\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/AdminAccount/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/AdminAccount/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BY2NvdW50XFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Admin/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Admin/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Admin/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Admin/PaymentInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGF5bWVudEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Admin/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Chef/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Chef/ChefIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxDaGVmSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Chef/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Chef/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Chef/ViewProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxWaWV3UHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/CustomerAccount/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJBY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/CustomerAccount/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJBY2NvdW50XFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Customer/MyOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTXlPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Customer/PlaceOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUGxhY2VPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Home/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Payment/PaymentSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxQYXltZW50U3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Shared/_CustomerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21lckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/SDAndISD3.2/SDANDISDProject/FoodDeliveryApp/FoodDeliveryApp/FoodDeliveryApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rlf79yp3zm
