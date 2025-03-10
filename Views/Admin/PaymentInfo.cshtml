@@ -1,0 +1,38 @@
+﻿@model List<FoodDeliveryApp.ViewModels.PaymentViewModel>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Payment Info";
+}
+
+<h2>Customer Payments</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Customer Name</th>
+            <th>Phone Number</th>
+            <th>Address</th>
+            <th>Payment Method</th>
+            <th>Total Quantity</th>
+            <th>Total Price</th>
+            <th>Payment Date/Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var payment in Model)
+        {
+            <tr>
+                <td>@payment.OrderId</td>
+                <td>@payment.CustomerName</td>
+                <td>@payment.PhoneNumber</td>
+                <td>@payment.Address</td>
+                <td>@payment.Method</td>
+                <td>@payment.TotalQuantity</td>
+                <td>@payment.TotalPrice.ToString("C")</td>
+                <td>@payment.PaymentDateTime.ToString("g")</td>
+            </tr>
+        }
+
+    </tbody>
+</table>

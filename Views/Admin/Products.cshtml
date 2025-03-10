@@ -1,0 +1,65 @@
+﻿@model List<FoodDeliveryApp.Models.Item>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Admin Product Dashboard";
+}
+
+<div class="container-fluid mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h3 class="card-title mb-0">Admin Product Dashboard</h3>
+        </div>
+        <div class="card-body">
+            <p class="card-text">Review and manage your current inventory items below. Use the dashboard to quickly identify items that are available or need attention.</p>
+            <div class="table-responsive">
+                <table class="table table-hover table-bordered">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Image</th>
+                            <th>Item Name</th>
+                            <th>Description</th>
+                            <th>Price</th>
+                            <th>Availability</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var i in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @if (!string.IsNullOrEmpty(i.ImagePath))
+                                    {
+                                        <img src="@i.ImagePath" alt="Product Image" width="60" height="60" class="img-thumbnail" />
+                                    }
+                                    else
+                                    {
+                                        <span>No Image</span>
+                                    }
+                                </td>
+                                <td>@i.ItemName</td>
+                                <td>@i.Description</td>
+                                <td>@i.Price.ToString("C")</td>
+                                <td>
+                                    @if (i.IsAvailable)
+                                    {
+                                        <span class="badge bg-success">Available</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-danger">Unavailable</span>
+                                    }
+                                </td>
+                                <td>
+                                    <!-- Edit Button -->
+                                    <a asp-action="EditProduct" asp-route-id="@i.ItemId" class="btn btn-warning btn-sm">
+                                        <i class="fas fa-edit"></i> Edit
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

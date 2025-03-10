@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Customer - @ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="@Url.Action("Index", "Home")">HomeChefHub Customer</a>
+
+        <div class="collapse navbar-collapse">
+            @if (User?.Identity?.IsAuthenticated == true && User.IsInRole("Customer"))
+            {
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Customer" asp-action="PlaceOrder">Place Order</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Customer" asp-action="MyOrders">My Orders</a>
+                    </li>
+                </ul>
+            }
+
+            <ul class="navbar-nav ml-auto">
+                @if (User?.Identity?.IsAuthenticated == true && User.IsInRole("Customer"))
+                {
+                    <!-- The user is logged in as Customer -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="CustomerAccount" asp-action="Logout">Logout</a>
+                    </li>
+                }
+                else
+                {
+                    <!-- The user is not logged in or not a Customer -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="CustomerAccount" asp-action="Login">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="CustomerAccount" asp-action="Register">Register</a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        @RenderBody()
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

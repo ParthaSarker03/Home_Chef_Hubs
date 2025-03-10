@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Admin - @ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="@Url.Action("Index", "Home")">HomeChefHub Admin</a>
+
+        <div class="collapse navbar-collapse">
+            @if (User?.Identity?.IsAuthenticated == true && User.IsInRole("Admin"))
+            {
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Admin" asp-action="AddProduct">Add Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Admin" asp-action="Products">Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Admin" asp-action="Orders">Orders</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Admin" asp-action="PaymentInfo">Payment Info</a>
+                    </li>
+                </ul>
+            }
+
+            <ul class="navbar-nav ml-auto">
+                @if (User?.Identity?.IsAuthenticated == true && User.IsInRole("Admin"))
+                {
+                    <!-- Admin is logged in -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="AdminAccount" asp-action="Logout">Logout</a>
+                    </li>
+                }
+                else
+                {
+                    <!-- Not logged in or not Admin role -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="AdminAccount" asp-action="Login">Login</a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        @RenderBody()
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
