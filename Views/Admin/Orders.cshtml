@@ -1,0 +1,184 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Today's Orders";
+}
+
+@*  Automatically refresh the page every 60 seconds *@ 
+<meta http-equiv="refresh" content="60" />
+
+<div class="container mt-4">
+    <div class="row mb-3">
+        <div class="col">
+            <h2 class="mb-0">@ViewData["Title"]</h2>
+            <small class="text-muted">The page refreshes every 60 seconds.</small>
+        </div>
+    </div>
+
+    <!-- Nav Tabs -->
+    <ul class="nav nav-tabs" id="ordersTab" role="tablist">
+        <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="pending-tab" data-bs-toggle="tab" data-bs-target="#pendingTab" type="button" role="tab" aria-controls="pendingTab" aria-selected="true">
+                Pending Orders
+            </button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="accepted-tab" data-bs-toggle="tab" data-bs-target="#acceptedTab" type="button" role="tab" aria-controls="acceptedTab" aria-selected="false">
+                Accepted Orders
+            </button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="rejected-tab" data-bs-toggle="tab" data-bs-target="#rejectedTab" type="button" role="tab" aria-controls="rejectedTab" aria-selected="false">
+                Rejected Orders
+            </button>
+        </li>
+    </ul>
+
+    <!-- Tab Content -->
+    <div class="tab-content border border-top-0 p-3" id="ordersTabContent">
+        <!-- PENDING ORDERS TAB -->
+        <div class="tab-pane fade show active" id="pendingTab" role="tabpanel" aria-labelledby="pending-tab">
+            @if (ViewBag.PendingOrders == null || !((List<FoodDeliveryApp.ViewModels.AdminOrdersViewModel>)ViewBag.PendingOrders).Any())
+            {
+                <div class="alert alert-info mt-3">
+                    No pending orders today.
+                </div>
+            }
+            else
+            {
+                <table class="table table-hover table-bordered align-middle">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Order #</th>
+                            <th>Customer</th>
+                            <th>Items</th>
+                            <th>Total</th>
+                            <th>Placed At</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in (List<FoodDeliveryApp.ViewModels.AdminOrdersViewModel>)ViewBag.PendingOrders)
+                        {
+                            <tr>
+                                <td>@order.OrderId</td>
+                                <td>
+                                    <strong>@order.CustomerName</strong><br />
+                                    <small class="text-muted">(@order.CustomerEmail)</small>
+                                </td>
+                                <td>
+                                    @foreach (var item in order.Items)
+                                    {
+                                        <span class="d-block">@item</span>
+                                    }
+                                </td>
+                                <td>@order.TotalPrice.ToString("C")</td>
+                                <td>@order.OrderDateTime</td>
+                                <td>
+                                    <form asp-controller="Admin" asp-action="AcceptOrder" method="post" class="d-inline">
+                                        <input type="hidden" name="orderId" value="@order.OrderId" />
+                                        <button class="btn btn-success btn-sm" type="submit">
+                                            <i class="fas fa-check"></i> Accept
+                                        </button>
+                                    </form>
+                                    <form asp-controller="Admin" asp-action="RejectOrder" method="post" class="d-inline">
+                                        <input type="hidden" name="orderId" value="@order.OrderId" />
+                                        <button class="btn btn-danger btn-sm" type="submit">
+                                            <i class="fas fa-times"></i> Reject
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+
+        <!-- ACCEPTED ORDERS TAB -->
+        <div class="tab-pane fade" id="acceptedTab" role="tabpanel" aria-labelledby="accepted-tab">
+            @if (ViewBag.AcceptedOrders == null || !((List<FoodDeliveryApp.ViewModels.AdminOrdersViewModel>)ViewBag.AcceptedOrders).Any())
+            {
+                <div class="alert alert-info mt-3">
+                    No accepted orders today.
+                </div>
+            }
+            else
+            {
+                <table class="table table-hover table-bordered align-middle">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Order #</th>
+                            <th>Customer</th>
+                            <th>Items</th>
+                            <th>Total</th>
+                            <th>Placed At</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in (List<FoodDeliveryApp.ViewModels.AdminOrdersViewModel>)ViewBag.AcceptedOrders)
+                        {
+                            <tr>
+                                <td>@order.OrderId</td>
+                                <td>@order.CustomerName</td>
+                                <td>
+                                    @foreach (var item in order.Items)
+                                    {
+                                        <span class="d-block">@item</span>
+                                    }
+                                </td>
+                                <td>@order.TotalPrice.ToString("C")</td>
+                                <td>@order.OrderDateTime</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+
+        <!-- REJECTED ORDERS TAB -->
+        <div class="tab-pane fade" id="rejectedTab" role="tabpanel" aria-labelledby="rejected-tab">
+            @if (ViewBag.RejectedOrders == null || !((List<FoodDeliveryApp.ViewModels.AdminOrdersViewModel>)ViewBag.RejectedOrders).Any())
+            {
+                <div class="alert alert-info mt-3">
+                    No rejected orders today.
+                </div>
+            }
+            else
+            {
+                <table class="table table-hover table-bordered align-middle">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Order #</th>
+                            <th>Customer</th>
+                            <th>Items</th>
+                            <th>Total</th>
+                            <th>Placed At</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in (List<FoodDeliveryApp.ViewModels.AdminOrdersViewModel>)ViewBag.RejectedOrders)
+                        {
+                            <tr>
+                                <td>@order.OrderId</td>
+                                <td>@order.CustomerName</td>
+                                <td>
+                                    @foreach (var item in order.Items)
+                                    {
+                                        <span class="d-block">@item</span>
+                                    }
+                                </td>
+                                <td>@order.TotalPrice.ToString("C")</td>
+                                <td>@order.OrderDateTime</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <!-- Optional: FontAwesome for icons (Accept/Reject buttons). If not needed, remove <i> tags above. -->
+    <script src="https://kit.fontawesome.com/your-fontawesome-kit.js" crossorigin="anonymous"></script>
+}

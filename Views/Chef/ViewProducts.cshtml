@@ -1,0 +1,40 @@
+﻿@model List<FoodDeliveryApp.Models.Item>
+
+@{
+    ViewData["Title"] = "View Products";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Your Products</h2>
+
+    <table class="table table-bordered mt-3">
+        <thead class="table-dark">
+            <tr>
+                
+                <th>Image</th>
+                <th>Item Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Availability</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    
+                    <td><img src="@product.ImagePath" width="80" height="80" /></td>
+                    <td>@product.ItemName</td>
+                    <td>@product.Description</td>
+                    <td>$@product.Price</td>
+                    <td>@(product.IsAvailable ? "Available" : "Out of Stock")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="text-center mt-4">
+        <a asp-action="AddProduct" class="btn btn-success">➕ Add Product</a>
+    </div>
+</div>
+
