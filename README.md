@@ -7,12 +7,29 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 
 ## Features
 
-- 🍽️ **Order Home-Cooked Meals** - Browse and order delicious homemade dishes from local chefs.
-- 👩‍🍳 **Become a Chef** - Sign up as a home chef and sell your homemade meals.
-- 📍 **Location-Based Search** - Find home chefs near you.
-- ⭐ **Reviews & Ratings** - Rate and review meals and chefs for a better experience.
-- 💳 **Secure Payments** - Pay securely through integrated payment gateways.
-- 📦 **Delivery Tracking** - Real-time tracking of your order.
+For Customers 
+-User Registration & Login – Sign up using an email, log in, and recover passwords easily.
+-Filter – Find meals by menu
+-Menu Display – View detailed menus with descriptions, images, and prices from home chefs.
+-Secure Payment Options – Pay safely online with support for discounts and promo codes.
+-Order Tracking – Get real-time updates on your order status.
+
+For Sellers (Home Cooks)
+-Profile Management – Create and manage your chef profile.
+-Menu & Pricing Control – Add, update, or remove menu items with images and descriptions.
+-Order Management – Track and manage orders in real time.
+-Earnings Dashboard – Monitor sales and manage payments.
+
+For Admins 
+-User & Seller Management – Oversee customer and seller accounts.
+-Order & Payment Monitoring – Ensure smooth and secure transactions.
+-System Analytics – Generate reports on app performance, user activity, and sales.
+
+
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/pobXArBMMbs/0.jpg)](https://www.youtube.com/watch?v=pobXArBMMbs)
+
 
 ## Screenshots
 
@@ -20,48 +37,27 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 ![Chef Profile](https://via.placeholder.com/800x400.png?text=Chef+Profile)
 ![Order Summary](https://via.placeholder.com/800x400.png?text=Order+Summary)
 
-## Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/pobXArBMMbs/0.jpg)](https://www.youtube.com/watch?v=pobXArBMMbs)
+## Technology Stack
+
+Frontend & Backend: C#, ASP.NET, HTML, CSS
+Database: MySQL
 
 
-## Installation
+## HomeChefHum Team
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/HomeChefHum.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd HomeChefHum
-   ```
-3. Install dependencies:
-   ```sh
-   composer install
-   npm install
-   ```
-4. Set up the database and environment file:
-   ```sh
-   cp .env.example .env
-   php artisan migrate --seed
-   ```
-5. Run the application:
-   ```sh
-   php artisan serve
-   ```
+Name: Partha Sarker
+Email: parthasarker10701@gmail.com
+Name: Bappy Chandra Devnath
+Email: bappy.cse.20210204074@aust.edu
+Name: Ramisa Ali Salwa
+Email: ramisa.cse.20210204076@aust.edu
+Name: Ibteshum khaled
+Email: 
 
-## Contributing
 
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature-branch`).
-3. Commit your changes.
-4. Push to your fork and create a Pull Request.
+## Conclusion
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
+The HomeChefHum project blends technology with real-world food industry challenges, promoting homemade meals and supporting local chefs. Our platform provides a cost-effective alternative to restaurant food while enhancing user convenience. Through research, risk assessment, and feasibility studies, we designed a socially impactful and technically viable system. Despite challenges, HomeChefHum has the potential to transform how people order homemade food. Future improvements in AI recommendations, automated delivery tracking, and vendor onboarding will enhance scalability. This project has been a valuable learning experience, reinforcing teamwork, problem-solving, and adaptability in software development.
 
 Made with ❤️ by the HomeChefHum Team
