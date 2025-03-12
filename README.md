@@ -7,20 +7,20 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 
 ## Features
 
-For Customers 
+For Customers <br>
 -User Registration & Login – Sign up using an email, log in, and recover passwords easily.<br>
 -Filter: Find meals by menu.<br>
 -Menu Display: View detailed menus with descriptions, images, and prices from home chefs.<br>
 -Secure Payment Options: Pay safely online with support for discounts and promo codes.<br>
 -Order Tracking: Get real-time updates on your order status.<br>
 
-For Sellers (Home Cooks)
+For Sellers (Home Cooks)<br>
 -Profile Management: Create and manage your chef profile.<br>
 -Menu & Pricing Control: Add, update, or remove menu items with images and descriptions.<br>
 -Order Management: Track and manage orders in real time.<br>
 -Earnings Dashboard: Monitor sales and manage payments.<br>
 
-For Admins 
+For Admins <br>
 -User & Seller Management: Oversee customer and seller accounts.<br>
 -Order & Payment Monitoring: Ensure smooth and secure transactions.<br>
 -System Analytics: Generate reports on app performance, user activity, and sales.
@@ -46,13 +46,13 @@ Database: MySQL
 
 ## HomeChefHum Team
 
-Name: Partha Sarker
-Email: parthasarker10701@gmail.com
-Name: Bappy Chandra Devnath
-Email: bappy.cse.20210204074@aust.edu
-Name: Ramisa Ali Salwa
-Email: ramisa.cse.20210204076@aust.edu
-Name: Ibteshum khaled
+Name: Partha Sarker<br>
+Email: parthasarker10701@gmail.com<br>
+Name: Bappy Chandra Devnath<br>
+Email: bappy.cse.20210204074@aust.edu<br>
+Name: Ramisa Ali Salwa<br>
+Email: ramisa.cse.20210204076@aust.edu<br>
+Name: Ibteshum khaled<br>
 Email: 
 
 
