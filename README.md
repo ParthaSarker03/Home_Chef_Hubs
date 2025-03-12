@@ -9,21 +9,21 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 
 For Customers 
 -User Registration & Login – Sign up using an email, log in, and recover passwords easily.<br>
--Filter – Find meals by menu.<br>
--Menu Display – View detailed menus with descriptions, images, and prices from home chefs.<br>
--Secure Payment Options – Pay safely online with support for discounts and promo codes.<br>
--Order Tracking – Get real-time updates on your order status.<br>
+-Filter: Find meals by menu.<br>
+-Menu Display: View detailed menus with descriptions, images, and prices from home chefs.<br>
+-Secure Payment Options: Pay safely online with support for discounts and promo codes.<br>
+-Order Tracking: Get real-time updates on your order status.<br>
 
 For Sellers (Home Cooks)
--Profile Management – Create and manage your chef profile.
--Menu & Pricing Control – Add, update, or remove menu items with images and descriptions.
--Order Management – Track and manage orders in real time.
--Earnings Dashboard – Monitor sales and manage payments.
+-Profile Management: Create and manage your chef profile.<br>
+-Menu & Pricing Control: Add, update, or remove menu items with images and descriptions.<br>
+-Order Management: Track and manage orders in real time.<br>
+-Earnings Dashboard: Monitor sales and manage payments.<br>
 
 For Admins 
--User & Seller Management – Oversee customer and seller accounts.
--Order & Payment Monitoring – Ensure smooth and secure transactions.
--System Analytics – Generate reports on app performance, user activity, and sales.
+-User & Seller Management: Oversee customer and seller accounts.<br>
+-Order & Payment Monitoring: Ensure smooth and secure transactions.<br>
+-System Analytics: Generate reports on app performance, user activity, and sales.
 
 
 ## Demo Video
@@ -40,7 +40,7 @@ For Admins
 
 ## Technology Stack
 
-Frontend & Backend: C#, ASP.NET, HTML, CSS
+Frontend & Backend: C#, ASP.NET, HTML, CSS. <br>
 Database: MySQL
 
 
