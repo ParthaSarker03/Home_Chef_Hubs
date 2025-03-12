@@ -7,20 +7,20 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 
 ## Features
 
-For Customers <br>
+##For Customers <br>
 -User Registration & Login – Sign up using an email, log in, and recover passwords easily.<br>
 -Filter: Find meals by menu.<br>
 -Menu Display: View detailed menus with descriptions, images, and prices from home chefs.<br>
 -Secure Payment Options: Pay safely online with support for discounts and promo codes.<br>
 -Order Tracking: Get real-time updates on your order status.<br>
 
-For Sellers (Home Cooks)<br>
+##For Sellers (Home Cooks)<br>
 -Profile Management: Create and manage your chef profile.<br>
 -Menu & Pricing Control: Add, update, or remove menu items with images and descriptions.<br>
 -Order Management: Track and manage orders in real time.<br>
 -Earnings Dashboard: Monitor sales and manage payments.<br>
 
-For Admins <br>
+##For Admins <br>
 -User & Seller Management: Oversee customer and seller accounts.<br>
 -Order & Payment Monitoring: Ensure smooth and secure transactions.<br>
 -System Analytics: Generate reports on app performance, user activity, and sales.
@@ -33,70 +33,70 @@ For Admins <br>
 
 ## Screenshots
 
-### Home Page  
+## Home Page  
 ![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)  
 
-### MasterChef  
+## MasterChef  
 ![MasterChef](https://via.placeholder.com/800x400.png?text=Order+Page)  
 
-### MyOrder  
+## MyOrder  
 ![Chef Profile](https://via.placeholder.com/800x400.png?text=Chef+Profile)  
 
-### PlaceOrder  
+## PlaceOrder  
 ![MyOrder](https://via.placeholder.com/800x400.png?text=Home+Page)  
 
-### PrivacyPolicy  
+## PrivacyPolicy  
 ![PrivacyPolicy](https://via.placeholder.com/800x400.png?text=Order+Page)  
 
-### SuccessfulPayment  
+## SuccessfulPayment  
 ![SuccessfulPayment](https://via.placeholder.com/800x400.png?text=Chef+Profile) 
 
-### AboutUs  
+## AboutUs  
 ![AboutUs](https://via.placeholder.com/800x400.png?text=Home+Page)  
 
-### AddProduct  
+## AddProduct  
 ![AddProduct](https://via.placeholder.com/800x400.png?text=Order+Page)  
 
-### AdminLogin  
+## AdminLogin  
 ![AdminLogin](https://via.placeholder.com/800x400.png?text=Chef+Profile) 
 
-### AdminOrder  
+## AdminOrder  
 ![AdminOrder](https://via.placeholder.com/800x400.png?text=Home+Page)  
 
-### AdminOrderManage  
+## AdminOrderManage  
 ![AdminOrderManage](https://via.placeholder.com/800x400.png?text=Order+Page)  
 
-### AdminSignup  
+## AdminSignup  
 ![AdminSignup](https://via.placeholder.com/800x400.png?text=Chef+Profile)  
 
-### ChefLogin  
+## ChefLogin  
 ![ChefLogin](https://via.placeholder.com/800x400.png?text=Home+Page)  
 
-### ChefManageOrder  
+## ChefManageOrder  
 ![ChefManageOrder](https://via.placeholder.com/800x400.png?text=Order+Page)  
 
-### ChefOrder  
+## ChefOrder  
 ![ChefOrder](https://via.placeholder.com/800x400.png?text=Chef+Profile) 
 
-### ChefRegister  
+## ChefRegister  
 ![ChefRegister](https://via.placeholder.com/800x400.png?text=Home+Page)  
 
-### ContactUs  
+## ContactUs  
 ![ContactUs](https://via.placeholder.com/800x400.png?text=Order+Page)  
 
-### CustomerLogin  
+## CustomerLogin  
 ![CustomerLogin](https://via.placeholder.com/800x400.png?text=Chef+Profile)
 
-### CustomerPayment  
+## CustomerPayment  
 ![CustomerPayment](https://via.placeholder.com/800x400.png?text=Chef+Profile) 
 
-### CustomerRegistration  
+## CustomerRegistration  
 ![CustomerRegistration](https://via.placeholder.com/800x400.png?text=Home+Page)  
 
-### FoodMenu  
+## FoodMenu  
 ![FoodMenu](https://via.placeholder.com/800x400.png?text=Order+Page)  
 
-### CustomerLogin  
+## CustomerLogin  
 ![CustomerLogin](https://via.placeholder.com/800x400.png?text=Chef+Profile)
 
 ## Technology Stack
