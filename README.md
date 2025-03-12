@@ -121,4 +121,4 @@ Email:
 
 The HomeChefHum project blends technology with real-world food industry challenges, promoting homemade meals and supporting local chefs. Our platform provides a cost-effective alternative to restaurant food while enhancing user convenience. Through research, risk assessment, and feasibility studies, we designed a socially impactful and technically viable system. Despite challenges, HomeChefHum has the potential to transform how people order homemade food. Future improvements in AI recommendations, automated delivery tracking, and vendor onboarding will enhance scalability. This project has been a valuable learning experience, reinforcing teamwork, problem-solving, and adaptability in software development.
 
-Made with ❤️ by the HomeChefHum Team
+Made with LOVE by the HomeChefHum Team
