@@ -7,20 +7,20 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 
 ## Features
 
-##For Customers <br>
+## For Customers <br>
 -User Registration & Login – Sign up using an email, log in, and recover passwords easily.<br>
 -Filter: Find meals by menu.<br>
 -Menu Display: View detailed menus with descriptions, images, and prices from home chefs.<br>
 -Secure Payment Options: Pay safely online with support for discounts and promo codes.<br>
 -Order Tracking: Get real-time updates on your order status.<br>
 
-##For Sellers (Home Cooks)<br>
+## For Sellers (Home Cooks)<br>
 -Profile Management: Create and manage your chef profile.<br>
 -Menu & Pricing Control: Add, update, or remove menu items with images and descriptions.<br>
 -Order Management: Track and manage orders in real time.<br>
 -Earnings Dashboard: Monitor sales and manage payments.<br>
 
-##For Admins <br>
+## For Admins <br>
 -User & Seller Management: Oversee customer and seller accounts.<br>
 -Order & Payment Monitoring: Ensure smooth and secure transactions.<br>
 -System Analytics: Generate reports on app performance, user activity, and sales.
@@ -52,7 +52,7 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 ![SuccessfulPayment](https://via.placeholder.com/800x400.png?text=Chef+Profile) 
 
 ## AboutUs  
-![AboutUs](https://via.placeholder.com/800x400.png?text=Home+Page)  
+![AboutUs]([https://via.placeholder.com/800x400.png?text=Home+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/main/ProjectPic/sd_isd_pic/AboutUs.jpg?raw=true))  
 
 ## AddProduct  
 ![AddProduct](https://via.placeholder.com/800x400.png?text=Order+Page)  
