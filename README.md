@@ -49,7 +49,7 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 ![PrivacyPolicy]([https://via.placeholder.com/800x400.png?text=Order+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/PrivacyPolicy.jpg))  
 
 ## SuccessfulPayment  
-![SuccessfulPayment]([https://via.placeholder.com/800x400.png?text=Chef+Profile](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/SuccessfulPayment.jpg)) 
+![SuccessfulPayment](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/SuccessfulPayment.jpg)) 
 
 ## AboutUs  
 ![AboutUs](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/204125865f60df540183207f078bcb133f6ae162/ProjectPic/sd_isd_pic/AboutUs.jpg)  
