@@ -34,19 +34,19 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 ## Screenshots
 
 ## Home Page  
-![Home Page]([https://via.placeholder.com/800x400.png?text=Home+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/Homepage.jpg))  
+![Home Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/Homepage.jpg))  
 
 ## MasterChef  
-![MasterChef]([https://via.placeholder.com/800x400.png?text=Order+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/MasterChef.jpg))  
+![MasterChef](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/MasterChef.jpg))  
 
 ## MyOrder  
-![Chef Profile]([https://via.placeholder.com/800x400.png?text=Chef+Profile](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/MyOrder.jpg))  
+![Chef Profile](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/MyOrder.jpg))  
 
 ## PlaceOrder  
-![MyOrder]([https://via.placeholder.com/800x400.png?text=Home+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/PlaceOrder.jpg))  
+![MyOrder](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/PlaceOrder.jpg))  
 
 ## PrivacyPolicy  
-![PrivacyPolicy]([https://via.placeholder.com/800x400.png?text=Order+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/PrivacyPolicy.jpg))  
+![PrivacyPolicy](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/PrivacyPolicy.jpg))  
 
 ## SuccessfulPayment  
 ![SuccessfulPayment](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/SuccessfulPayment.jpg)) 
@@ -55,49 +55,49 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 ![AboutUs](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/204125865f60df540183207f078bcb133f6ae162/ProjectPic/sd_isd_pic/AboutUs.jpg)  
 
 ## AddProduct  
-![AddProduct]([https://via.placeholder.com/800x400.png?text=Order+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AddProduct.jpg))  
+![AddProduct](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AddProduct.jpg))  
 
 ## AdminLogin  
-![AdminLogin]([https://via.placeholder.com/800x400.png?text=Chef+Profile](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AdminLogin.jpg)) 
+![AdminLogin](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AdminLogin.jpg)) 
 
 ## AdminOrder  
-![AdminOrder]([https://via.placeholder.com/800x400.png?text=Home+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AdminOrder.jpg))  
+![AdminOrder](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AdminOrder.jpg))  
 
 ## AdminOrderManage  
-![AdminOrderManage]([https://via.placeholder.com/800x400.png?text=Order+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AdminOrderManage.jpg))  
+![AdminOrderManage](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AdminOrderManage.jpg))  
 
 ## AdminSignup  
-![AdminSignup]([https://via.placeholder.com/800x400.png?text=Chef+Profile](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AdminSignup.jpg))  
+![AdminSignup](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/AdminSignup.jpg))  
 
 ## ChefLogin  
-![ChefLogin]([https://via.placeholder.com/800x400.png?text=Home+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ChefLogin.jpg))  
+![ChefLogin](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ChefLogin.jpg))  
 
 ## ChefManageOrder  
-![ChefManageOrder]([https://via.placeholder.com/800x400.png?text=Order+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ChefManageOrder.jpg))  
+![ChefManageOrder](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ChefManageOrder.jpg))  
 
 ## ChefOrder  
-![ChefOrder]([https://via.placeholder.com/800x400.png?text=Chef+Profile](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ChefManageOrder.jpg)) 
+![ChefOrder](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ChefManageOrder.jpg)) 
 
 ## ChefRegister  
-![ChefRegister]([https://via.placeholder.com/800x400.png?text=Home+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ChefRegister.jpg))  
+![ChefRegister](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ChefRegister.jpg))  
 
 ## ContactUs  
-![ContactUs]([https://via.placeholder.com/800x400.png?text=Order+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ContactUs.jpg))  
+![ContactUs](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/ContactUs.jpg))  
 
 ## CustomerLogin  
-![CustomerLogin]([https://via.placeholder.com/800x400.png?text=Chef+Profile](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/CustomerLogin.jpg))
+![CustomerLogin](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/CustomerLogin.jpg))
 
 ## CustomerPayment  
-![CustomerPayment]([https://via.placeholder.com/800x400.png?text=Chef+Profile](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/CustomerPayment.jpg)) 
+![CustomerPayment](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/CustomerPayment.jpg)) 
 
 ## CustomerRegistration  
-![CustomerRegistration]([https://via.placeholder.com/800x400.png?text=Home+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/CustomerRegistration.jpg))  
+![CustomerRegistration](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/CustomerRegistration.jpg))  
 
 ## FoodMenu  
-![FoodMenu]([https://via.placeholder.com/800x400.png?text=Order+Page](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/FoodMenu.jpg))  
+![FoodMenu](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/FoodMenu.jpg))  
 
 ## CustomerLogin  
-![CustomerLogin]([https://via.placeholder.com/800x400.png?text=Chef+Profile](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/CustomerLogin.jpg))
+![CustomerLogin](https://github.com/ParthaSarker03/Home_Chef_Hubs/blob/b5928d50a28257f5a1344b8ad8bcba15a2fea388/ProjectPic/sd_isd_pic/CustomerLogin.jpg))
 
 ## Technology Stack
 
