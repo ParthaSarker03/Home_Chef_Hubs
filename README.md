@@ -33,10 +33,71 @@ For Admins <br>
 
 ## Screenshots
 
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)
-![Chef Profile](https://via.placeholder.com/800x400.png?text=Chef+Profile)
-![Order Summary](https://via.placeholder.com/800x400.png?text=Order+Summary)
+### Home Page  
+![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)  
 
+### MasterChef  
+![MasterChef](https://via.placeholder.com/800x400.png?text=Order+Page)  
+
+### MyOrder  
+![Chef Profile](https://via.placeholder.com/800x400.png?text=Chef+Profile)  
+
+### PlaceOrder  
+![MyOrder](https://via.placeholder.com/800x400.png?text=Home+Page)  
+
+### PrivacyPolicy  
+![PrivacyPolicy](https://via.placeholder.com/800x400.png?text=Order+Page)  
+
+### SuccessfulPayment  
+![SuccessfulPayment](https://via.placeholder.com/800x400.png?text=Chef+Profile) 
+
+### AboutUs  
+![AboutUs](https://via.placeholder.com/800x400.png?text=Home+Page)  
+
+### AddProduct  
+![AddProduct](https://via.placeholder.com/800x400.png?text=Order+Page)  
+
+### AdminLogin  
+![AdminLogin](https://via.placeholder.com/800x400.png?text=Chef+Profile) 
+
+### AdminOrder  
+![AdminOrder](https://via.placeholder.com/800x400.png?text=Home+Page)  
+
+### AdminOrderManage  
+![AdminOrderManage](https://via.placeholder.com/800x400.png?text=Order+Page)  
+
+### AdminSignup  
+![AdminSignup](https://via.placeholder.com/800x400.png?text=Chef+Profile)  
+
+### ChefLogin  
+![ChefLogin](https://via.placeholder.com/800x400.png?text=Home+Page)  
+
+### ChefManageOrder  
+![ChefManageOrder](https://via.placeholder.com/800x400.png?text=Order+Page)  
+
+### ChefOrder  
+![ChefOrder](https://via.placeholder.com/800x400.png?text=Chef+Profile) 
+
+### ChefRegister  
+![ChefRegister](https://via.placeholder.com/800x400.png?text=Home+Page)  
+
+### ContactUs  
+![ContactUs](https://via.placeholder.com/800x400.png?text=Order+Page)  
+
+### CustomerLogin  
+![CustomerLogin](https://via.placeholder.com/800x400.png?text=Chef+Profile)
+
+### CustomerPayment  
+![CustomerPayment](https://via.placeholder.com/800x400.png?text=Chef+Profile) 
+
+### CustomerRegistration  
+![CustomerRegistration](https://via.placeholder.com/800x400.png?text=Home+Page)  
+
+### FoodMenu  
+![FoodMenu](https://via.placeholder.com/800x400.png?text=Order+Page)  
+
+### CustomerLogin  
+![CustomerLogin](https://via.placeholder.com/800x400.png?text=Chef+Profile)
 
 ## Technology Stack
 
