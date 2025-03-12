@@ -8,11 +8,11 @@ Our app simplifies the process for busy individuals to order homemade food, maki
 ## Features
 
 For Customers 
--User Registration & Login – Sign up using an email, log in, and recover passwords easily.
--Filter – Find meals by menu
--Menu Display – View detailed menus with descriptions, images, and prices from home chefs.
--Secure Payment Options – Pay safely online with support for discounts and promo codes.
--Order Tracking – Get real-time updates on your order status.
+-User Registration & Login – Sign up using an email, log in, and recover passwords easily.<br>
+-Filter – Find meals by menu.<br>
+-Menu Display – View detailed menus with descriptions, images, and prices from home chefs.<br>
+-Secure Payment Options – Pay safely online with support for discounts and promo codes.<br>
+-Order Tracking – Get real-time updates on your order status.<br>
 
 For Sellers (Home Cooks)
 -Profile Management – Create and manage your chef profile.
